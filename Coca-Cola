@@ -1,0 +1,33 @@
+<html>
+    <title>Coca-cola</title>
+    <body>
+        <header>
+        <img src="https://images.vectorhq.com/images/previews/e04/coca-cola-logo-psd-437422.png"width="40px"height"40px"/>
+            <a href="#Coca">
+            Coca-cola boom</a>
+            </header>
+        <main>
+            <h1 id="cola" >Coca-cola</h1>
+            <h2>Газированный напитоок</h2>
+            <img src="https://api.time.com/wp-content/uploads/2015/05/97055361.jpg?w=824&quality=70"/>
+            <img src="https://assets.turbologo.ru/blog/ru/2021/05/25043448/coca-cola-logo-2003.png"/>
+            <p>Напиток кока-кола был придуман в Атланте (штат Джорджия, США) 8 мая 1886 года фармацевтом Джоном Ститом Пембертоном — бывшим офицером американской Армии конфедерации (есть легенда, что его придумал фермер, который продал свой рецепт Джону Ститу за 250 долларов, о чём Джон Стит якобы сказал в одном из своих интервью). Название для нового напитка придумал бухгалтер Пембертона — Фрэнк Робинсон, который также, владея каллиграфией, написал слова «Coca-Cola» фигурными буквами, до сих пор являющимися логотипом напитка.</p>
+            всё про Coca-cola</main>
+            <table style="border:1px solid blue;border-collapse:collapse">
+                <tr>
+                    <td style="border:1px solid blue;">Тип</td>
+                    <td style="border:1px solid blue;">	Кола</td>
+                </tr>
+                <tr>
+                    <td style="border:1px solid blue;">крепость</td>
+                    <td style="border:1px solid blue;">	0 процент</td>
+                </tr>
+                    <td style="border:1px solid blue;">Производитель</td>
+                    <td style="border:1px solid blue;">	The Coca-Cola Company</td>
+                </table>
+        <footer id="Coca">
+            <a href="#cola" >мы любим Coca-cola</a>
+            <p>улица кэшбек номер 38 678 14 83</p>
+        </footer>
+    </body> 
+</html>
